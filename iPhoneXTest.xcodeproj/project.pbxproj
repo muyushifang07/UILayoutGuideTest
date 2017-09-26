@@ -15,6 +15,7 @@
 		9CBE8CCD1F74F4DD000B689B /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 9CBE8CCC1F74F4DD000B689B /* main.m */; };
 		9CBE8CD71F74F4DE000B689B /* iPhoneXTestTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 9CBE8CD61F74F4DE000B689B /* iPhoneXTestTests.m */; };
 		9CBE8CE21F74F4DE000B689B /* iPhoneXTestUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 9CBE8CE11F74F4DE000B689B /* iPhoneXTestUITests.m */; };
+		9CCE51141F7A018900C528FB /* RootTableViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 9CCE51131F7A018900C528FB /* RootTableViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,8 @@
 		9CBE8CDD1F74F4DE000B689B /* iPhoneXTestUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = iPhoneXTestUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		9CBE8CE11F74F4DE000B689B /* iPhoneXTestUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = iPhoneXTestUITests.m; sourceTree = "<group>"; };
 		9CBE8CE31F74F4DE000B689B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		9CCE51121F7A018900C528FB /* RootTableViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = RootTableViewController.h; sourceTree = "<group>"; };
+		9CCE51131F7A018900C528FB /* RootTableViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = RootTableViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -105,6 +108,8 @@
 				9CBE8CBE1F74F4DD000B689B /* AppDelegate.m */,
 				9CBE8CC01F74F4DD000B689B /* ViewController.h */,
 				9CBE8CC11F74F4DD000B689B /* ViewController.m */,
+				9CCE51121F7A018900C528FB /* RootTableViewController.h */,
+				9CCE51131F7A018900C528FB /* RootTableViewController.m */,
 				9CBE8CC31F74F4DD000B689B /* Main.storyboard */,
 				9CBE8CC61F74F4DD000B689B /* Assets.xcassets */,
 				9CBE8CC81F74F4DD000B689B /* LaunchScreen.storyboard */,
@@ -268,6 +273,7 @@
 				9CBE8CC21F74F4DD000B689B /* ViewController.m in Sources */,
 				9CBE8CCD1F74F4DD000B689B /* main.m in Sources */,
 				9CBE8CBF1F74F4DD000B689B /* AppDelegate.m in Sources */,
+				9CCE51141F7A018900C528FB /* RootTableViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
